@@ -1,0 +1,315 @@
+body,div,img,h2,p,input,ul,li{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style:none;
+}
+a{
+    text-decoration:none;
+}
+body{
+    width:1263px;
+}
+img{
+    display:block;
+}
+#banner1{
+    width:1263px;
+    height:57px;
+}
+#banner1 img{
+    width:123px;
+    height:57px;
+    float:left;  
+    margin-left:128px;
+}
+#banner1 h2{
+    width:158px;
+    height:57px;
+    float:left;
+    margin-left:15px;
+    text-align:center;
+    line-height:57px;
+    font-size:30px;
+    color:#bcbcbc;
+    border-left:1px solid #e5e5e5;
+}
+#banner2{
+    width:1263px;
+    height:42px;
+    margin-top:58px;
+}
+#banner2 p{
+    float:left;
+}
+#banner2 p:nth-child(1){
+    width:150px ;
+    height:39px;
+    margin-left:280px;
+    border-left:1px solid #e6e6e6;
+    border-right:1px solid #e6e6e6;
+    border-top:2px solid #cc0000;
+    text-align:center;
+    line-height:38px;
+    font-size:12px;
+    color:#cc0000;
+}
+#banner2 p:nth-child(2){
+    width:150px ;
+    height:40px;
+    margin-left:2px;
+    border:1px solid #e6e6e6;
+    border-bottom:none;
+    text-align:center;
+    line-height:38px;
+    font-size:12px;
+    color:#5e5e5e;
+    background:#f3f3f3;
+}
+#banner2 p:nth-child(3){
+    width:136px ;
+    height:12px;
+    margin:20px 0 0 374px;
+    text-align:center;
+    line-height:12px;
+    font-size:12px;
+    color:#5e5e5e;
+}
+#banner2 p:nth-child(3) a{
+    width:23px ;
+    height:12px;
+    margin-left:4px;
+    text-align:center;
+    line-height:12px;
+    font-size:12px;
+    color:#006699;
+}
+#banner3{
+    width:987px;
+    height:582px;
+    border:1px solid #e6e6e6;
+    margin-left:137px;
+    position:relative;
+}
+#banner3 div:nth-child(1){
+    width:354px;
+    height:38px;
+    margin:40px 0 0 95px;
+    font-size:14px;
+    color:#888888;
+}
+#banner3 div:nth-child(1) input{
+    width:296px;
+    height:36px;
+    border:1px solid #cccccc;
+}
+#banner3 div:nth-child(2){
+    width:368px;
+    height:38px;
+    margin:28px 0 0 81px;
+    font-size:14px;
+    color:#888888;
+}
+#banner3 div:nth-child(2) input{
+    width:296px;
+    height:36px;
+    border:1px solid #cccccc;
+}
+#banner3 div:nth-child(3){
+    width:368px;
+    height:38px;
+    margin:28px 0 0 81px;
+    font-size:14px;
+    color:#888888;
+}
+#banner3 div:nth-child(3) input{
+    width:296px;
+    height:36px;
+    border:1px solid #cccccc;
+    background:#ebebe4;
+}
+#banner3 div:nth-child(4){
+    width:368px;
+    height:38px;
+    margin:28px 0 0 81px;
+    font-size:14px;
+    color:#888888;
+}
+#banner3 div:nth-child(4) input{
+    width:296px;
+    height:36px;
+    border:1px solid #cccccc;
+}
+#banner3 div:nth-child(5){
+    width:370px;
+    height:40px;
+    margin:28px 0 0 81px;
+}
+#banner3 div:nth-child(5) p:nth-child(1){
+    width:70px;
+    height:40px; 
+    font-size:14px;
+    color:#888888; 
+    float:left;
+    line-height:40px; 
+}
+#banner3 div:nth-child(5) p:nth-child(2){
+    width:300px;
+    height:40px;
+    background:#eeeeee; 
+    font-size:12px; 
+    float:right;
+    line-height:40px; 
+}
+#banner3 div:nth-child(5) p:nth-child(2) span:nth-child(1){
+    width:46px;
+    height:38px;
+    display:block;
+    background:#fff;
+    border:1px solid #cccccc;
+    float:left;
+    text-align:center;
+    line-height:38px;
+}
+#banner3 div:nth-child(5) p:nth-child(2) span:nth-child(2){
+    width:222px;
+    height:40px;
+    display:block;
+    background:#eeeeee;
+    float:right;
+    padding-left:28px;
+}
+#banner3 div:nth-child(6){
+    width:332px;
+    height:38px;
+    margin:27px 0 0 66px;
+    font-size:14px;
+    color:#888888;
+}
+#banner3 div:nth-child(6) input:nth-child(1){
+    width:131px;
+    height:36px;
+    border:1px solid #cccccc;
+}
+#banner3 div:nth-child(6) input:nth-child(2){
+    width:104px;
+    height:38px;
+    border:1px solid #cccccc;
+    margin-left:8px;
+    line-height:38px;
+    text-align:center;
+}
+#banner3 div:nth-child(7){
+    width:393px;
+    height:38px;
+    margin:28px 0 0 57px;
+    font-size:14px;
+    color:#888888;
+}
+#banner3 div:nth-child(7) input{
+    width:277px;
+    height:36px;
+    font-size:12px;
+    border:1px solid #cccccc;
+    background:#ebebe4;
+}
+#banner3 div:nth-child(8){
+    width:298px;
+    height:40px;
+    background:#ff5757;
+    margin:33px 0 0 151px;
+    text-align:center;
+    line-height:40px;
+    font-size:15px;
+}
+#banner3 div:nth-child(8) a{
+    color:#ffffff;
+}
+#banner3 img{
+    width:289px;
+    height:258px;
+    position:absolute;left:642px;top:0;
+}
+#banner4{
+    width:990px;
+    height:116px;
+    margin:34px 0 0 137px;
+    
+    border-bottom:1px solid #e6e6e6;
+}
+#banner4 div:nth-child(1){
+    width:990px;
+    height:23px;
+    font-size:12px;
+}
+#banner4 div:nth-child(1) ul li a{
+    color:#666666;
+}
+#banner4 div:nth-child(1) ul li a:hover{
+    color:#f00;
+}
+#banner4 div:nth-child(1) ul:nth-child(1){
+    width:244px;
+    height:23px;
+    line-height:23px;
+    float:left;
+    border-right:2px solid #cfdaed;
+}
+#banner4 div:nth-child(1) ul:nth-child(1) li:nth-child(1){
+    width:48px;
+    height:12px;
+    float:left;
+    margin-right:14px;
+}
+#banner4 div:nth-child(1) ul:nth-child(1) li:nth-child(2){
+    width:48px;
+    height:12px;
+    float:left;
+     margin-right:12px;
+}
+#banner4 div:nth-child(1) ul:nth-child(1) li:nth-child(3){
+    width:48px;
+    height:12px;
+    float:left;
+     margin-right:12px;
+}
+#banner4 div:nth-child(1) ul:nth-child(1) li:nth-child(4){
+    width:48px;
+    height:12px;
+    float:left;
+     margin-right:14px;
+}
+#banner4 div:nth-child(1) ul:nth-child(2){
+    width:368px;
+    height:23px;
+    float:left;
+    line-height:23px;
+    border-right:2px solid #cfdaed;
+}
+#banner4 div:nth-child(1) ul:nth-child(2) li{
+    height:23px;
+    float:left;
+    margin-left:13px;
+}
+#banner4 div:nth-child(1) ul:nth-child(3){
+    width:183px;
+    height:23px;
+    float:left;
+    line-height:23px;
+}
+#banner4 div:nth-child(1) ul:nth-child(3) li{
+    height:23px;
+    float:left;
+    margin-left:13px;
+}
+#banner5{
+    width:990px;
+    height:93px;
+    background:#00f;
+    border-bottom:1px solid #e6e6e6;
+}
+
+
+
+
